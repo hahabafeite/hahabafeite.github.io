@@ -24,23 +24,23 @@ people:
   pic: 2
   position: Team Leader
   social:
-    - title: twitter
+    - title: Wechat
       url: #
     - title: facebook
       url: #
-    - title: linkedin
+    - title: Phone
       url: #
 
 - name: 谭小超
   pic: 3
   position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  #social:
+    ##- title: twitter
+      #url: #
+    #- title: facebook
+      #url: #
+    #- title: google-plus
+      #url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
