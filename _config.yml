@@ -23,13 +23,13 @@ people:
 - name: 李云
   pic: 2
   position: Team Leader
-  social:
-    - title: Wechat
-      url: #
-    - title: facebook
-      url: #
-    - title: Phone
-      url: #
+  #social:
+    #- title: Wechat
+      #url: #
+    #- title: facebook
+      #url: #
+    #- title: Phone
+      #url: #
 
 - name: 谭小超
   pic: 3
@@ -43,17 +43,17 @@ people:
       #url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+#social:
+  #- title: twitter
+    #url: http://twitter.com/jekyllrb
+  #- title: facebook
+    #url:
+ # - title: stack-overflow
+    #url: http://stackoverflow.com/questions/tagged/jekyll
+  #- title: bitbucket 
+   # url: http://bitbucket.org/jekyll
+ # - title: github
+    #url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
