@@ -1,6 +1,6 @@
 ---
-title: Startup hololens之恶搞川普
-subtitle: Hololens、Kinect等多种硬件适配内容定制方案
+title: Hololens之恶搞川普
+subtitle: Hololens、Kinect等多硬件适配方案
 layout: default
 modal-id: 5
 date: 2014-07-14
