@@ -1,5 +1,5 @@
 ---
-title: 幼儿学汉字
+title: 幼儿识别动物
 subtitle: AR教育方案
 layout: default
 modal-id: 2
