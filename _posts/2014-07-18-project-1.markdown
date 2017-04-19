@@ -8,7 +8,7 @@ img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
-/*client: Start Bootstrap*/
+<!--client: Start Bootstrap-->
 category: Web Development
 description: 这个项目主要有三个亮点：1、视频中那个四块大屏幕拼接成一整块屏，分开的动画和整体的动画都是一台主机控制的，这就意味着程序搭建了很优质的底层框架，可以不管分开运行四个交互界面还是整个作为一个界面展示交互，内存占用及GPU的使用都极为合理2、因为四块不同屏幕一台主机控制，每块屏幕上又都是多点（5点）触控，所以对于整个程序的坐标点编辑就非常有要求3、还有一个爆破粒子效果，在一块四屏拼接的大屏上展示调整效果方面，耗费很多功夫，但最终还是给严谨的客户一个满意的产品～
 
