@@ -1,6 +1,6 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: 特斯拉展示交互应用
+subtitle: 跨屏幕实力展示
 layout: default
 modal-id: 6
 date: 2014-07-15
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: 知仕信息科技自频道
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 汽车行业也是继房产行业之后的一个蓝海VR市场，但多场景的需求，需要在各个端，线上线下都可以有很好的体验，而这也正是我们所擅长的～
 
 ---
