@@ -1,9 +1,9 @@
 ---
-title: 中兴
-subtitle: 4屏触摸桌
+title: 中兴四屏拼接多媒体触摸桌
+subtitle: CG完美方案
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2016-10-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
