@@ -1,6 +1,6 @@
 ---
-title: Golden
-subtitle: Website Design
+title: 全景图片、全景视频等影像内容制作
+subtitle: 全景视频、图片方案
 layout: default
 modal-id: 3
 date: 2014-07-16
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: 知仕信息科技自频道
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 两个男人之间的爱情，应该是这个世界上最纯情的😄😄
 
 ---
