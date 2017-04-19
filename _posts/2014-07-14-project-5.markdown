@@ -1,6 +1,6 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Startup hololens之恶搞川普
+subtitle: Hololens、Kinect等多种硬件适配内容定制方案
 layout: default
 modal-id: 5
 date: 2014-07-14
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: 知仕信息科技自频道
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 应用Unity、UE4主流开发引擎，结合优秀的策划和专业团队，带给您最好的合作体验！
 
 ---
