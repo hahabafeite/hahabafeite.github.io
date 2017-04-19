@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: 知仕信息科技自频道
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 灵动的音乐，高品质的模型及渲染效果，最好的教育给到最珍惜的宝贝孩子
 
 ---
