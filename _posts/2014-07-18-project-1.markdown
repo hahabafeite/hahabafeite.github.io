@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 这个项目主要有三个亮点：1、视频中那个四块大屏幕拼接成一整块屏，分开的动画和整体的动画都是一台主机控制的，这就意味着程序搭建了很优质的底层框架，可以不管分开运行四个交互界面还是整个作为一个界
 
 ---
